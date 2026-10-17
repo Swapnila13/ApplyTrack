@@ -1,4 +1,4 @@
-# Smart Job Application Tracker
+# ApplyTrack - Smart Job Application Tracker
 
 A beginner-friendly Flask web app for tracking job applications, recruitment stages, and follow-up dates. It stores records in SQLite and provides a small REST API for creating, reading, updating, and deleting applications.
 
