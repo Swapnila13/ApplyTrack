@@ -2,7 +2,7 @@
 
 **ApplyTrack** is a web application that helps job seekers manage their job applications, track application statuses, and organize follow-up dates in one place.
 
-🔗 **Live Demo:** [[Open ApplyTrack](YOUR-RENDER-URL)](https://applytrack-pnlo.onrender.com)
+🔗 **Live Demo:** (https://applytrack-pnlo.onrender.com)
 
 📂 **Source Code:** [GitHub Repository](https://github.com/Swapnila13/ApplyTrack)
 
