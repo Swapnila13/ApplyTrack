@@ -152,15 +152,6 @@ curl -X DELETE http://127.0.0.1:5000/api/applications/1
 3. For POST/PATCH, choose **Body → raw → JSON**, then paste one of the examples above.
 4. Click **Send** and inspect the status code and JSON response.
 
-## Screenshots
-
-After running the application, capture screenshots of:
-
-1. Dashboard with summary cards and at least two application rows.
-2. Add/edit application form.
-3. Follow-up reminder area with an overdue or due-today application.
-
-Create a `screenshots/` folder and add images, for example `screenshots/dashboard.png`. Then embed them here using `![Dashboard](screenshots/dashboard.png)`. Do not include real personal contact details or confidential application notes in public screenshots.
 
 ## Limitations and possible future improvements
 
